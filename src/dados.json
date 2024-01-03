@@ -6,6 +6,13 @@
             "place": "Academy",
             "energy": "70",
             "description": "Considero que fiz um bom treino, mas sinto que não dei o meu máximo."
+        },
+        {
+            "date": "03/01/2024",
+            "training": "02",
+            "place": "Academy",
+            "energy": "90",
+            "description": "Hoje o treino foi bem consistente, o treino foi focado em trabalhar as costas, a única coisa que faltou de fato foi o cardio no final do treino."
         }
     ]
 }
