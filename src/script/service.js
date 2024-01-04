@@ -1,5 +1,6 @@
 const contain = document.querySelector(".contain")
 const dadosJson = "./src/dados.json";
+const h1 = document.querySelector("h1")
 
 const arr = []
 
@@ -10,6 +11,7 @@ const loadingJson = (dado) => {
         const arr = json.workouts
         arr.reverse()
         arr.map((todo) => {
+            h1.innerHTML = `Meta ${arr.length} / 200`
             contain.innerHTML += `
             <div class="box">
                 <data class="data">${todo.date}</data>

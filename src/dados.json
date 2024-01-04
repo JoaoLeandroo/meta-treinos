@@ -13,6 +13,13 @@
             "place": "Academy",
             "energy": "90",
             "description": "Hoje o treino foi bem consistente, o treino foi focado em trabalhar as costas, a única coisa que faltou de fato foi o cardio no final do treino."
+        },
+        {
+            "date": "04/01/2024",
+            "training": "03",
+            "place": "Academy",
+            "energy": "100",
+            "description": "O treino de hoje teve como foco as pernas, sinto que dei o meu máximo e fiquei bem satisfeito com treino de hoje, após o final do treino ainda fiz um cardio de cerca de 10 minutos na esteira, 5 minutos caminhando e os últimos 5 minutos correndo."
         }
     ]
 }
