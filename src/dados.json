@@ -27,6 +27,13 @@
             "place": "Academy",
             "energy": "95",
             "description": "O treino hoje foi bem produtivo, teve como enfase principal o peitoral, conseguir elevar um pouco as cargas em relação as que eu costumo levantar, considero que foi um excelence treino, só pequei no cardeio, apesar de ter feito cerca de 10 minutos de cardio sinto que poderia ter forçado um pouco mais."
+        },
+        {
+            "date": "25/01/2024",
+            "training": "05",
+            "place": "Academy",
+            "energy": "50%",
+            "description": "Finalmente voltei a treinar, após uma longa viagem e uma virose inesperada, conseguir voltar aos treinos, o treino de hoje foi apenas para despertar o corpo nada tão intenso."
         }
     ]
 }
