@@ -32,8 +32,15 @@
             "date": "25/01/2024",
             "training": "05",
             "place": "Academy",
-            "energy": "50%",
+            "energy": "50",
             "description": "Finalmente voltei a treinar, após uma longa viagem e uma virose inesperada, conseguir voltar aos treinos, o treino de hoje foi apenas para despertar o corpo nada tão intenso."
+        },
+        {
+            "date": "29/01/2024",
+            "training": "06",
+            "place": "Academy",
+            "energy": "90",
+            "description": "Hoje fiz um treino de perna, apesar de não ter sido um treino tão intenso, meu corpo se sentiu bastante exausto, imagino que ainda estou me recuperando da virose, mas sinto que entreguei o meu máximo."
         }
     ]
 }
