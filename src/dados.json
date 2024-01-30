@@ -41,6 +41,13 @@
             "place": "Academy",
             "energy": "90",
             "description": "Hoje fiz um treino de perna, apesar de não ter sido um treino tão intenso, meu corpo se sentiu bastante exausto, imagino que ainda estou me recuperando da virose, mas sinto que entreguei o meu máximo."
+        },
+        {
+            "date": "30/01/2024",
+            "training": "07",
+            "place": "Academy",
+            "energy": "70",
+            "description": "No treino de hoje, treinei um pouco de superior, sinto que poderia ter feito mais, no entanto as maquinas estavam muito cheias, então acabei optando por fazer algumas series de abdominais livres no final do treinando, finalizando com um cardio leve na esteira."
         }
     ]
 }
