@@ -48,6 +48,13 @@
             "place": "Academy",
             "energy": "70",
             "description": "No treino de hoje, treinei um pouco de superior, sinto que poderia ter feito mais, no entanto as maquinas estavam muito cheias, então acabei optando por fazer algumas series de abdominais livres no final do treinando, finalizando com um cardio leve na esteira."
+        },
+        {
+            "date": "31/01/2024",
+            "training": "08",
+            "place": "Academy",
+            "energy": "80",
+            "description": "Hoje fiz um treino focado em superior, incluir tambem um bom treino de abdominais e fiz um cardio de cerca de 10 minutos após o treino."
         }
     ]
 }
