@@ -55,6 +55,13 @@
             "place": "Academy",
             "energy": "80",
             "description": "Hoje fiz um treino focado em superior, incluir tambem um bom treino de abdominais e fiz um cardio na esteira de cerca de 10 minutos após o treino."
+        },
+        {
+            "date": "02/02/2024",
+            "training": "09",
+            "place": "Academy",
+            "energy": "70",
+            "description": "Fiz hoje um treino de cardio ultrapassando os 30 minutos, foi um dia bem cansativo, mas consegui fazer um cardio no final da tarde."
         }
     ]
 }
