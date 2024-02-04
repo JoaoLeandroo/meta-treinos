@@ -1,67 +1,74 @@
 {
-    "workouts": [
-        {
-            "date": "02/01/2024",
-            "training": "01",
-            "place": "Academy",
-            "energy": "70",
-            "description": "Considero que fiz um bom treino, mas sinto que não dei o meu máximo."
-        },
-        {
-            "date": "03/01/2024",
-            "training": "02",
-            "place": "Academy",
-            "energy": "90",
-            "description": "Hoje o treino foi bem consistente, o treino foi focado em trabalhar as costas, a única coisa que faltou de fato foi o cardio no final do treino."
-        },
-        {
-            "date": "04/01/2024",
-            "training": "03",
-            "place": "Academy",
-            "energy": "100",
-            "description": "O treino de hoje teve como foco as pernas, sinto que dei o meu máximo e fiquei bem satisfeito com treino de hoje, após o final do treino ainda fiz um cardio de cerca de 10 minutos na esteira, 5 minutos caminhando e os últimos 5 minutos correndo."
-        },
-        {
-            "date": "05/01/2024",
-            "training": "04",
-            "place": "Academy",
-            "energy": "95",
-            "description": "O treino hoje foi bem produtivo, teve como enfase principal o peitoral, conseguir elevar um pouco as cargas em relação as que eu costumo levantar, considero que foi um excelence treino, só pequei no cardeio, apesar de ter feito cerca de 10 minutos de cardio sinto que poderia ter forçado um pouco mais."
-        },
-        {
-            "date": "25/01/2024",
-            "training": "05",
-            "place": "Academy",
-            "energy": "50",
-            "description": "Finalmente voltei a treinar, após uma longa viagem e uma virose inesperada, conseguir voltar aos treinos, o treino de hoje foi apenas para despertar o corpo nada tão intenso."
-        },
-        {
-            "date": "29/01/2024",
-            "training": "06",
-            "place": "Academy",
-            "energy": "90",
-            "description": "Hoje fiz um treino de perna, apesar de não ter sido um treino tão intenso, meu corpo se sentiu bastante exausto, imagino que ainda estou me recuperando da virose, mas sinto que entreguei o meu máximo."
-        },
-        {
-            "date": "30/01/2024",
-            "training": "07",
-            "place": "Academy",
-            "energy": "70",
-            "description": "No treino de hoje, treinei um pouco de superior, sinto que poderia ter feito mais, no entanto as maquinas estavam muito cheias, então acabei optando por fazer algumas series de abdominais livres no final do treinando, finalizando com um cardio leve na esteira."
-        },
-        {
-            "date": "31/01/2024",
-            "training": "08",
-            "place": "Academy",
-            "energy": "80",
-            "description": "Hoje fiz um treino focado em superior, incluir tambem um bom treino de abdominais e fiz um cardio na esteira de cerca de 10 minutos após o treino."
-        },
-        {
-            "date": "02/02/2024",
-            "training": "09",
-            "place": "Academy",
-            "energy": "70",
-            "description": "Fiz hoje um treino de cardio ultrapassando os 30 minutos, foi um dia bem cansativo, mas consegui fazer um cardio no final da tarde."
-        }
-    ]
+  "workouts": [
+    {
+      "date": "02/01/2024",
+      "training": "01",
+      "place": "Academy",
+      "energy": "70",
+      "description": "Considero que fiz um bom treino, mas sinto que não dei o meu máximo."
+    },
+    {
+      "date": "03/01/2024",
+      "training": "02",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Hoje o treino foi bem consistente, o treino foi focado em trabalhar as costas, a única coisa que faltou de fato foi o cardio no final do treino."
+    },
+    {
+      "date": "04/01/2024",
+      "training": "03",
+      "place": "Academy",
+      "energy": "100",
+      "description": "O treino de hoje teve como foco as pernas, sinto que dei o meu máximo e fiquei bem satisfeito com treino de hoje, após o final do treino ainda fiz um cardio de cerca de 10 minutos na esteira, 5 minutos caminhando e os últimos 5 minutos correndo."
+    },
+    {
+      "date": "05/01/2024",
+      "training": "04",
+      "place": "Academy",
+      "energy": "95",
+      "description": "O treino hoje foi bem produtivo, teve como enfase principal o peitoral, conseguir elevar um pouco as cargas em relação as que eu costumo levantar, considero que foi um excelence treino, só pequei no cardeio, apesar de ter feito cerca de 10 minutos de cardio sinto que poderia ter forçado um pouco mais."
+    },
+    {
+      "date": "25/01/2024",
+      "training": "05",
+      "place": "Academy",
+      "energy": "50",
+      "description": "Finalmente voltei a treinar, após uma longa viagem e uma virose inesperada, conseguir voltar aos treinos, o treino de hoje foi apenas para despertar o corpo nada tão intenso."
+    },
+    {
+      "date": "29/01/2024",
+      "training": "06",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Hoje fiz um treino de perna, apesar de não ter sido um treino tão intenso, meu corpo se sentiu bastante exausto, imagino que ainda estou me recuperando da virose, mas sinto que entreguei o meu máximo."
+    },
+    {
+      "date": "30/01/2024",
+      "training": "07",
+      "place": "Academy",
+      "energy": "70",
+      "description": "No treino de hoje, treinei um pouco de superior, sinto que poderia ter feito mais, no entanto as maquinas estavam muito cheias, então acabei optando por fazer algumas series de abdominais livres no final do treinando, finalizando com um cardio leve na esteira."
+    },
+    {
+      "date": "31/01/2024",
+      "training": "08",
+      "place": "Academy",
+      "energy": "80",
+      "description": "Hoje fiz um treino focado em superior, incluir tambem um bom treino de abdominais e fiz um cardio na esteira de cerca de 10 minutos após o treino."
+    },
+    {
+      "date": "02/02/2024",
+      "training": "09",
+      "place": "Academy",
+      "energy": "70",
+      "description": "Fiz hoje um treino de cardio ultrapassando os 30 minutos, foi um dia bem cansativo, mas consegui fazer um cardio no final da tarde."
+    },
+    {
+      "date": "03/02/2024",
+      "training": "10",
+      "place": "Open Air",
+      "energy": "85",
+      "description": "Meu treino de hoje, foi uma corrida de cerca de 1 hora"
+    }
+  ]
 }
