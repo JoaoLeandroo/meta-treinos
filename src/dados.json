@@ -69,6 +69,13 @@
       "place": "Open Air",
       "energy": "85",
       "description": "Meu treino de hoje, foi uma corrida de cerca de 1 hora"
+    },
+    {
+      "date": "05/02/2024",
+      "training": "11",
+      "place": "Academy",
+      "energy": "95",
+      "description": "Comecei a semana, com um excelente treino de pernas."
     }
   ]
 }
