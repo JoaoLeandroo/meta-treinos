@@ -76,6 +76,13 @@
       "place": "Academy",
       "energy": "95",
       "description": "Comecei a semana, com um excelente treino de pernas."
+    },
+    {
+      "date": "06/02/2024",
+      "training": "12",
+      "place": "Academy",
+      "energy": "90",
+      "description": "No treino de hoje, trabalhei os musculos superiores com foco no treino de peito."
     }
   ]
 }
