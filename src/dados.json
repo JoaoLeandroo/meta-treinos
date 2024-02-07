@@ -83,6 +83,13 @@
       "place": "Academy",
       "energy": "90",
       "description": "No treino de hoje, trabalhei os musculos superiores com foco no treino de peito."
+    },
+    {
+      "date": "07/02/2024",
+      "training": "13",
+      "place": "Academy",
+      "energy": "95",
+      "description": "Hoje foi um treino extremamente produtivo, consegui fazer excelentes series de exercicios com foco nas costas."
     }
   ]
 }
