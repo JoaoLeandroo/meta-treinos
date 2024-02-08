@@ -90,6 +90,13 @@
       "place": "Academy",
       "energy": "95",
       "description": "Hoje foi um treino extremamente produtivo, consegui fazer excelentes series de exercicios com foco nas costas."
+    },
+    {
+      "date": "08/02/2024",
+      "training": "14",
+      "place": "Academy",
+      "energy": "100",
+      "description": "Hoje foi o apice da semana, fiz um treino perfeito de pernas e no final, finalizei com um otimo cardio."
     }
   ]
 }
