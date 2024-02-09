@@ -97,6 +97,13 @@
       "place": "Academy",
       "energy": "100",
       "description": "Hoje foi o apice da semana, fiz um treino perfeito de pernas e no final, finalizei com um otimo cardio."
+    },
+    {
+      "date": "09/02/2024",
+      "training": "15",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Para finalizar a semana, antes do carnal, fiz um treino focado em alguns membros superiores."
     }
   ]
 }
