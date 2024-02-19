@@ -104,6 +104,13 @@
       "place": "Academy",
       "energy": "90",
       "description": "Para finalizar a semana, antes do carnal, fiz um treino focado em alguns membros superiores."
+    },
+    {
+      "date": "19/02/2024",
+      "training": "15",
+      "place": "Academy",
+      "energy": "75",
+      "description": "Finalmente após o longo feriado de carnaval, consegui retornar aos treinos, hoje fiz um treino de readaptação focando nas partes superiores."
     }
   ]
 }
