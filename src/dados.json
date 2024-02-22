@@ -125,6 +125,13 @@
       "place": "Academy",
       "energy": "95",
       "description": "Hoje fiz um excelente treino de inferiores."
+    },
+    {
+      "date": "22/02/2024",
+      "training": "18",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Treino de superiores"
     }
   ]
 }
