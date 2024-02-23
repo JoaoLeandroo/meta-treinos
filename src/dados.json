@@ -132,6 +132,13 @@
       "place": "Academy",
       "energy": "90",
       "description": "Treino de superiores"
+    },
+    {
+      "date": "23/02/2024",
+      "training": "19",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Treino de superiores(costas)"
     }
   ]
 }
