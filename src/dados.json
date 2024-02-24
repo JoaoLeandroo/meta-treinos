@@ -139,6 +139,13 @@
       "place": "Academy",
       "energy": "90",
       "description": "Treino de superiores(costas)"
+    },
+    {
+      "date": "24/02/2024",
+      "training": "20",
+      "place": "Open Air",
+      "energy": "95",
+      "description": "Corrida"
     }
   ]
 }
