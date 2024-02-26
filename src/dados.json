@@ -146,6 +146,13 @@
       "place": "Open Air",
       "energy": "95",
       "description": "Corrida"
+    },
+    {
+      "date": "26/02/2024",
+      "training": "21",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Treino de pernas"
     }
   ]
 }
