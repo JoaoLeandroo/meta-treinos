@@ -188,6 +188,13 @@
       "place": "Academy",
       "energy": "85",
       "description": "Treino de superiores(peito)"
+    },
+    {
+      "date": "05/03/2024",
+      "training": "27",
+      "place": "Academy",
+      "energy": "87",
+      "description": "Treino de superiores(costas)"
     }
   ]
 }
