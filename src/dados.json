@@ -225,11 +225,18 @@
       "description": "Treino de pernas"
     },
     {
-      "date": "14/03;2024",
+      "date": "14/03/2024",
       "training": "33",
       "place": "Academy",
       "energy": "90",
       "description": "Treino de superiores(peito)"
+    },
+    {
+      "date": "16/03/2024",
+      "training": "34",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Treino de superiores(costas)"
     }
   ]
 }
