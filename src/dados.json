@@ -265,6 +265,13 @@
       "place": "Academy",
       "energy": "100",
       "description": "Treino de pernas + cardio"
+    },
+    {
+      "date": "23/03/2024",
+      "training": "39",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Treino de superiores(peito) + cardio"
     }
   ]
 }
