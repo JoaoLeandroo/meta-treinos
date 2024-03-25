@@ -272,6 +272,13 @@
       "place": "Academy",
       "energy": "90",
       "description": "Treino de superiores(peito) + cardio"
+    },
+    {
+      "date": "25/03/2024",
+      "training": "40",
+      "place": "Academy",
+      "energy": "90",
+      "description": "Treino de superiores(costas)"
     }
   ]
 }
