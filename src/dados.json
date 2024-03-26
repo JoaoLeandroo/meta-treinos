@@ -279,6 +279,13 @@
       "place": "Academy",
       "energy": "90",
       "description": "Treino de superiores(costas)"
+    },
+    {
+      "date": "26/03/2024",
+      "training": "41",
+      "place": "Academy",
+      "energy": "92",
+      "description": "Treino de pernas"
     }
   ]
 }
