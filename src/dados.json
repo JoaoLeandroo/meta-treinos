@@ -286,6 +286,13 @@
       "place": "Academy",
       "energy": "92",
       "description": "Treino de pernas"
+    },
+    {
+      "date": "27/03/2024",
+      "training": "42",
+      "place": "Academy",
+      "energy": "85",
+      "description": "Treino de superiores(peito)"
     }
   ]
 }
